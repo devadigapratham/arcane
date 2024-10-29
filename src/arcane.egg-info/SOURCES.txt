@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+src/arcane.egg-info/PKG-INFO
+src/arcane.egg-info/SOURCES.txt
+src/arcane.egg-info/dependency_links.txt
+src/arcane.egg-info/entry_points.txt
+src/arcane.egg-info/requires.txt
+src/arcane.egg-info/top_level.txt
+tests/test_cli.py
+tests/test_trainer.py
+tests/test_utils.py
