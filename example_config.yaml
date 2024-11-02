@@ -1,0 +1,16 @@
+nodes:
+  - name: master
+    ip: "192.168.1.1"
+    role: "master"
+  - name: worker-1
+    ip: "192.168.1.2"
+    role: "worker"
+  - name: worker-2
+    ip: "192.168.1.3"
+    role: "worker"
+
+training:
+  epochs: 10
+  batch_size: 32
+  learning_rate: 0.001
+  framework: "pytorch"
