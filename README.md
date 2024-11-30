@@ -85,6 +85,8 @@ To test Arcane across multiple machines:
 
 We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) for more details.
 
+PS: This is still under construction
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
